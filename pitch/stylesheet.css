@@ -1,0 +1,21 @@
+img {
+    width: 30vw;
+    position: absolute;
+    top: 8vw;
+    right: 5vw;
+}
+
+div {
+    width: 18.15vw;
+    height: 32.3vw;
+    position: absolute;
+    top: 13.7vw;
+    right: 11.25vw;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    height: 100%;
+}

@@ -62,6 +62,11 @@ a:hover {
     text-decoration: underline;
 }
 
+.center {
+    margin: 3vw auto;
+    width: 50vw;
+}
+
 /* prefixes til sections */
 
 .bg_pri {
@@ -101,11 +106,6 @@ a:hover {
     height: 28.125vw;
 }
 
-.center {
-    margin: 3vw auto;
-    width: 50vw;
-}
-
 /* App ikon */
 
 #ikon div {
@@ -113,4 +113,51 @@ a:hover {
     padding: 0 0 5vw 6vw;
     margin: 4vw;
     border-radius: 3vw;
+}
+
+/*** PRÆSENTATIONSSITE ***/
+
+#preasentation iframe {
+    height: 31vw;
+}
+
+#preasentation {
+    margin: 0;
+    border-radius: 0;
+    background-color: #FFF;
+    height: 100vh;
+}
+
+.center_2 {
+    width: 60vw;
+    margin: 3vw auto;
+}
+
+.prov {
+    font-size: 2vw;
+}
+
+.buttons {
+    display: flex;
+    width: 60vw;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.buttons div {
+    text-align: center;
+    width: 25vw;
+    background-color: #599ea1;
+    color: #000;
+    height: 3vw;
+    font-size: 2.5vw;
+    padding: 1vw;
+}
+
+.buttons a {
+    text-decoration: none;
+}
+
+.buttons a:hover {
+    font-weight: 600;
 }
