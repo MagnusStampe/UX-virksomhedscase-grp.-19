@@ -20,6 +20,15 @@
 
 }
 
+video {
+    position: absolute;
+    top: 13.6vw;
+    right: 11.1vw;
+    width: 18.3vw;
+}
+
+/*
+
 div {
     width: 18.16vw;
     height: 32.6vw;
@@ -34,6 +43,7 @@ div {
 iframe {
     height: 100%;
 }
+*/
 
 p {
     width: 60vw;
