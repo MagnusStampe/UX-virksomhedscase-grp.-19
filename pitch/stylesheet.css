@@ -14,7 +14,7 @@
 .circle {
     position: absolute;
     top: 6vw;
-    left: 30vw;
+    left: 32vw;
     z-index: -1;
     width: 100vw;
 
@@ -53,12 +53,14 @@ h1 {
     font-weight: 900;
     color: #599ea1;
     margin-bottom: 0.5vw;
+    margin-top: 2.5vw;
 }
 
 li {
-    font-size: 1.2em;
+    font-size: 1.6em;
     font-family: 'Barlow', sans-serif;
     font-weight: 500;
+    margin: 1vw 0;
 }
 
 .underoverskrift2 {
@@ -73,4 +75,9 @@ li {
 
 body {
     margin-left: 8vw;
+}
+
+
+h2 {
+    font-size: 1.9em;
 }
