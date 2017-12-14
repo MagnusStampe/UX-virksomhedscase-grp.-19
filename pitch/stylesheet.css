@@ -4,6 +4,10 @@
 
 }
 
+body {
+    overflow: hidden;
+}
+
 .phone {
     width: 30vw;
     position: absolute;
@@ -22,9 +26,10 @@
 
 iframe {
     position: absolute;
-    top: 10vw;
+    top: 13.5vw;
     right: 11.1vw;
     width: 18.3vw;
+    height: 32.4vw;
 }
 
 /*
