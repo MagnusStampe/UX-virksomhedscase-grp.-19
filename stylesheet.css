@@ -82,6 +82,22 @@ a:hover {
 
 /* Splash */
 
+#splash a {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: darkblue;
+    margin: 3vw 3vw 3vw 0;
+}
+
+#splash p {
+    margin-top: 0;
+    font-size: 1.2em;
+}
+
+#splash h1 {
+    margin-bottom: 0;
+}
+
 /* Scrum */
 
 /* Persona */
@@ -114,6 +130,23 @@ a:hover {
     padding: 0 0 5vw 6vw;
     margin: 4vw;
     border-radius: 3vw;
+}
+
+/* XD */
+
+#test_xd iframe {
+    width: 50vw;
+    height: 28.125vw;
+}
+
+/* Gruppe */
+
+#gruppe p {
+    font-size: 1.2em;
+}
+
+#gruppe strong {
+    font-size: 1.2em;
 }
 
 /*** PRÆSENTATIONSSITE ***/
