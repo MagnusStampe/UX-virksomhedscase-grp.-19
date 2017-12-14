@@ -11,12 +11,12 @@ body {
     width: 30vw;
     position: absolute;
     top: 8vw;
-    right: 5vw;
+    right: 9vw;
 }
 
 .circle {
     position: absolute;
-    top: 6vw;
+    top: -5vw;
     left: 32vw;
     z-index: -1;
     width: 100vw;
@@ -26,7 +26,7 @@ body {
 iframe {
     position: absolute;
     top: 13.5vw;
-    right: 11.1vw;
+    right: 15.1vw;
     width: 18.3vw;
     height: 32.4vw;
 }
