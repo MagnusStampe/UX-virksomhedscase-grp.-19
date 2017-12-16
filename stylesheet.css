@@ -116,6 +116,12 @@ a:hover {
     margin: 4vw 0 2.5vw 0;
 }
 
+/* Feature set */
+
+.list_right {
+    margin: 0 0 1em 0;
+}
+
 /* Data */
 
 #data iframe {
