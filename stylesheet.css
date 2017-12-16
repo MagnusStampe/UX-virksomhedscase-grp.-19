@@ -140,9 +140,13 @@ a:hover {
 
 /* XD */
 
-#test_xd iframe {
+#test_xd .test {
     width: 50vw;
     height: 28.125vw;
+}
+
+#test_xd iframe {
+    height: 40vw;
 }
 
 /* Gruppe */
@@ -153,74 +157,4 @@ a:hover {
 
 #gruppe strong {
     font-size: 1.2em;
-}
-
-/*** PRÆSENTATIONSSITE ***/
-
-#preasentation iframe {
-    height: 31vw;
-}
-
-#preasentation {
-    margin: 0;
-    border-radius: 0;
-    background-color: #FFF;
-    height: 100%;
-}
-
-.app_vid {
-    height: 44vw;
-}
-
-.app_vid video {
-    width: 12.2vw;
-    position: absolute;
-    left: 18.7vw;
-    top: 29.7vw;
-    z-index: 3;
-}
-
-.app_vid img {
-    width: 20vw;
-    top: 26vw;
-    left: 15vw;
-    z-index: 2;
-    position: absolute;
-}
-
-.center_2 {
-    width: 60vw;
-    margin: 3vw auto;
-}
-
-.prov {
-    font-size: 2vw;
-}
-
-.buttons {
-    width: 50vw;
-    padding: 0 0 0 9vw;
-}
-
-.buttons div {
-    text-align: center;
-    width: 20vw;
-    background-color: #599ea1;
-    color: #000;
-    height: 3vw;
-    font-size: 2vw;
-    padding: 1.5vw;
-    margin: 4vw 2vw;
-}
-
-.buttons p {
-    margin: 5vw 2vw;
-}
-
-.buttons a {
-    text-decoration: none;
-}
-
-.buttons a:hover {
-    font-weight: 600;
 }

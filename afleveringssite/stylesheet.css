@@ -1,0 +1,134 @@
+* {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    overflow: hidden;
+}
+
+.phone {
+    width: 30vw;
+    position: absolute;
+    top: 8vw;
+    right: 9vw;
+}
+
+.circle {
+    position: absolute;
+    top: -5vw;
+    left: 32vw;
+    z-index: -1;
+    width: 100vw;
+
+}
+
+iframe {
+    position: absolute;
+    top: 13.5vw;
+    right: 15.1vw;
+    width: 18.3vw;
+    height: 32.4vw;
+}
+
+/*
+
+div {
+    width: 18.16vw;
+    height: 32.6vw;
+    position: absolute;
+    top: 13.6vw;
+    right: 11.22vw;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    height: 100%;
+}
+*/
+
+p {
+    width: 60vw;
+    margin: 4vw 0;
+    font-size: 2.5vw;
+}
+
+h1 {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 300;
+    font-size: 5.7em;
+    margin-bottom: 20px;
+}
+
+h1 b {
+    font-weight: 700;
+    color: #606060;
+}
+
+.underoverskrift {
+    font-size: 2.4em;
+    font-weight: 300;
+    margin-bottom: 0.5vw;
+    margin-top: 2.5vw;
+}
+
+li {
+    font-size: 1.1em;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+    margin: 1vw 0;
+}
+
+.underoverskrift2 {
+    font-size: 2em;
+    font-weight: 300;
+    margin-top: 0.5vw;
+}
+
+.buttons {
+    width: 50vw;
+    display: flex;
+}
+
+.buttons div {
+    text-align: center;
+    width: 10em;
+    background-color: #707070;
+    color: #000;
+    height: 1.5em;
+    font-size: 1.5em;
+    padding: 1em;
+    margin: 0vw 2vw;
+}
+
+.buttons p {
+    margin: 5vw 2vw;
+}
+
+.buttons a {
+    text-decoration: none;
+}
+
+.buttons a:hover {
+    font-weight: 600;
+}
+
+
+h2 {
+    color: #222;
+    font-weight: 300;
+    font-size: 1.6em;
+}
+
+
+
+body {
+    margin-left: 8vw;
+}
+
+
+h2 {
+    font-size: 1.9em;
+}
